@@ -5,7 +5,7 @@ Monotonic Stack is a specialized form of stack. The Monotonic Stack works simila
 1. **Monotonically Increasing Stack**:
    - **Introduction**: Keeps uniformly increasing values.
    - **Use Case**: Helpful when we need to find out the immediate predecessor (smaller value).
-
+ 
 2. **Monotonically Decreasing Stack**:
    - **Introduction**: Keeps uniformly decreasing values.
    - **Use Case**: Helpful when we need to find out the immediate successor (greater value).
