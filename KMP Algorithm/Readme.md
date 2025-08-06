@@ -1,7 +1,3 @@
-Sure, Chinmay! Here's the cleaned-up and corrected version of your Markdown file. It keeps only **one example** throughout (i.e., pattern = `"ababd"` and text = `"ababcabcabababd"`), removes redundancy, and keeps the explanation structured and clear.
-
----
-
 ## 🔍 **Problem**
 
 We are given:
@@ -227,3 +223,4 @@ Pattern found at index 10
 
 Let me know if you'd like the same version exported as a `.md` file or want the walkthrough animated in GIF/HTML5 format.
 ```
+
