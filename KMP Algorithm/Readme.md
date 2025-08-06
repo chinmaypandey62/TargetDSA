@@ -1,7 +1,4 @@
 # KMP String Matching Algorithm
-
-This README provides a complete, beginner-friendly guide to the Knuth–Morris–Pratt (KMP) string matching algorithm, including a single worked example, step-by-step explanations, and a Java implementation.
-
 ---
 
 ## 🔍 Problem
@@ -182,3 +179,4 @@ Pattern found at index 10
 * Ideal for patterns with repeated subparts and long texts.
 
 ---
+
